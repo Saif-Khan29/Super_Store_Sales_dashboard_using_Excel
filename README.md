@@ -1,4 +1,4 @@
-#  Fashion Store_Sales_dashboard_using_Excel
+#  Super_Store_Sales_dashboard_using_Excel
 
 **Objective**
 
